@@ -1,0 +1,4 @@
+base:
+  '*':
+    - java.java8
+
